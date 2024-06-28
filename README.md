@@ -26,8 +26,8 @@
 </h4>
 
 
-**techySPHINX** is a Computer science Student studying with flow of Technologies 😁.
-I'm a code explorer , always diving into new programming languages to unlock the secrets of different industries!  I'm a passionate **FULL stack developer**  who thrives on learning from **React** ⚛️, **Node.js** , and **Express.js**  codebases. Building creative projects that push my boundaries and spark joy is what gets me going.
+_**techySPHINX** is a Computer science Student studying with flow of Technologies 😁.
+I'm a code explorer , always diving into new programming languages to unlock the secrets of different industries!  I'm a passionate **FULL stack developer**  who thrives on learning from **React** ⚛️, **Node.js** , and **Express.js**  codebases. Building creative projects that push my boundaries and spark joy is what gets me going._
 
 
   🔭 I’m currently working on Sass Platform (Saver)  using NEXT and technologies like **MYSQL**,**PRISMA**,**AWS**,**STRIPE** and etc...
