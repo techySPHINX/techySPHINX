@@ -64,7 +64,7 @@ I'm a code explorer , always diving into new programming languages to unlock the
     <img align="center" height="300" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=techySPHINX&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=494&card_height=197" alt="GitHub Streak" />
   </a>
 
-  [![techySPHINX's GitHub | Languages Over Time](https://stats.quira.sh/techySPHINX/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=techySPHINX)
+ 
 </p>
 
 <div align="center">
