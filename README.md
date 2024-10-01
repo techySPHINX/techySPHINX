@@ -1,5 +1,6 @@
-<img align="center" src="./logo/banner.png" alt="alternate_text" width="1000px" height="500px">
-
+<p align="middle">
+<img align="center" src="./logo/banner.png" alt="alternate_text" width="900px" height="400px">
+</p>
 <p align="middle">
   <a href="#⦿-🌱-𝙸’𝚖-𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢-𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐-**what I need**">
   <img src="PNG/About.png" width="100" />
