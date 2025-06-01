@@ -62,6 +62,8 @@
 - ☁️ **Cloud Lead** @ E-Labs, driving community workshops
 - 👨‍💻 Interned at **ConvertAPI**, **LectureNotes**, **Zinfytech**
 - 🤝 Member of **Google Developer Group Cloud Bhubaneswar**
+- 🌟 Selected as an open source contributor in C4GT DMP-2025@Iabsis
+- 🚀 Selected for KPI Fellowship Program 2025
 
 ---
 
