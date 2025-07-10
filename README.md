@@ -73,7 +73,7 @@
 
 **Languages & Frameworks**  
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,go,rust,solidity,python,java,js,ts,html,css,react,nextjs,angular,redux,django,fastapi,flask,nestjs,nodejs,express&perline=10" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,go,rust,solidity,python,java,js,ts,html,css,react,nextjs,angular,redux,django,fastapi,flask,nestjs,nodejs,express&perline=5" />
 </p>
 
 **Databases & Storage**  
