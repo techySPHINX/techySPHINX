@@ -98,15 +98,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=techySPHINX&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-</p>
+  
+| | |
+|:-------------------------:|:-------------------------:|
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=techySPHINX&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=techySPHINX&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/techySPHINX) |
+| [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=techySPHINX&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph) | |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=techySPHINX&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=techySPHINX&theme=high-contrast" alt="techySPHINX's GitHub Activity Graph" />
 </p>
 
 
