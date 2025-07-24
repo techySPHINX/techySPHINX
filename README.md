@@ -95,18 +95,23 @@
 
 ---
 
-## 📈 GitHub Stats
+## 🎮✨ GitHub Stats & Activity
 
-<p align="center">
-  
-| | |
-|:-------------------------:|:-------------------------:|
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=techySPHINX&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=techySPHINX&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/techySPHINX) |
-| [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=techySPHINX&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph) | |
+<div align="center">
 
-</p>
+<a href="https://git.io/streak-stats">
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=techySPHINX&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+</a>
 
+<a href="https://github.com/techySPHINX">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=techySPHINX&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+</a>
 
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=techySPHINX&theme=tokyo-night" alt="Contribution Graph"/>
+</a>
+
+</div>
 
 ---
 
