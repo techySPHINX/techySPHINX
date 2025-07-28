@@ -33,6 +33,7 @@
 
 | 🔰 Role | 🏢 Company | 🛠️ Stack & Contribution |
 |--------|-----------|--------------------------|
+| 🟢 Contributor | HCW-HOME (May 2025 – Present) | NestJS, WebRTC, Mediasoup, Prisma, WebSockets, Kubernetes
 | 🟡 **Cloud Lead** | E-Labs (Jan 2025 – Present) | Git, CI/CD, Infra as Code, Dashboards |
 | 🟣 **Intern** | ConvertAPI | FastAPI, TDD, Microservices |
 | 🟢 **DevOps Intern** | LectureNotes | Docker, AWS, Jenkins |
@@ -58,7 +59,7 @@
 🏆 Some proud milestones from my journey:
 
 - 🥈 **Runner-up** @ SIH’24 (Smart India Hackathon)
-- 🌟 Selected as an open source contributor in C4GT DMP-2025@Iabsis
+- 🌟 Selected as an open source contributor in **C4GT-DMP-2025**@Iabsis
 - 📊 **Apprentice** @ Quant Finance Cohort 2024
 - ☁️ **Cloud Lead** @ E-Labs, driving community workshops
 - 👨‍💻 Interned at **ConvertAPI**, **LectureNotes**, **Zinfytech**
