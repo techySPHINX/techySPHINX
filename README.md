@@ -74,7 +74,7 @@
 
 **Languages & Frameworks**  
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,go,rust,solidity,python,java,js,ts,html,css,react,nextjs,angular,redux,django,fastapi,flask,nestjs,nodejs,express&perline=5" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,go,rust,solidity,python,java,js,ts,html,css,react,nextjs,angular,redux,django,fastapi,flask,nestjs,nodejs,express&perline=7" />
 </p>
 
 **Databases & Storage**  
@@ -84,7 +84,7 @@
 
 **Cloud & DevOps**  
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,vercel,netlify,render,docker,githubactions,git,postman,prometheus,figma,canva&perline=8" />
+  <img src="https://skillicons.dev/icons?i=aws,vercel,netlify,render,docker,githubactions,git,postman,prometheus,figma,canva&perline=7" />
 </p>
 
 **Supportive Tech** 
