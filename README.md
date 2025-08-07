@@ -33,9 +33,9 @@
 
 | 🔰 Role | 🏢 Company | 🛠️ Stack & Contribution |
 |--------|-----------|--------------------------|
-| 🟢 Contributor | HCW-HOME (May 2025 – Present) | NestJS, WebRTC, Mediasoup, Prisma, WebSockets, Kubernetes
+| 🟢 **Contributor**| HCW-HOME (May 2025 – Present) | NestJS, WebRTC, Mediasoup, Prisma, WebSockets, Kubernetes
 | 🟡 **Cloud Lead** | E-Labs (Jan 2025 – Present) | Git, CI/CD, Infra as Code, Dashboards |
-| 🟣 **Intern** | ConvertAPI | FastAPI, TDD, Microservices |
+| 🟣 **SDE** | ConvertAPI | FastAPI, TDD, Microservices |
 | 🟢 **DevOps Intern** | LectureNotes | Docker, AWS, Jenkins |
 | 🔴 **Backend Dev** | Zinfytech | API Backends, Workflow Optimization |
 | 🟠 **Apprentice** | Quant Finance Cohort'24 | Stats, Python, Analytics |
@@ -59,7 +59,7 @@
 🏆 Some proud milestones from my journey:
 
 - 🥈 **Runner-up** @ SIH’24 (Smart India Hackathon)
-- 🌟 Selected as an open source contributor in **C4GT-DMP-2025**@Iabsis
+- 🌟 Selected as an **open-source** contributor in **C4GT-DMP-2025**@Iabsis
 - 📊 **Apprentice** @ Quant Finance Cohort 2024
 - ☁️ **Cloud Lead** @ E-Labs, driving community workshops
 - 👨‍💻 Interned at **ConvertAPI**, **LectureNotes**, **Zinfytech**
@@ -74,7 +74,7 @@
 
 **Languages & Frameworks**  
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,go,rust,solidity,python,java,js,ts,html,css,react,nextjs,angular,redux,django,fastapi,flask,nestjs,nodejs,express&perline=7" />
+  <img src="https://skillicons.dev/icons?i=cpp,go,solidity,python,java,js,ts,html,css,react,nextjs,angular,redux,fastapi,flask,nestjs,nodejs,express&perline=7" />
 </p>
 
 **Databases & Storage**  
@@ -84,7 +84,7 @@
 
 **Cloud & DevOps**  
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,vercel,netlify,render,docker,githubactions,git,postman,prometheus,figma,canva&perline=7" />
+  <img src="https://skillicons.dev/icons?i=aws,vercel,netlify,render,docker,githubactions,git,postman,figma,canva&perline=7" />
 </p>
 
 **Supportive Tech** 
