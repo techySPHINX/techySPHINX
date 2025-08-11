@@ -74,7 +74,7 @@
 
 **Languages & Frameworks**  
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,go,solidity,python,java,js,ts,html,css,react,nextjs,angular,redux,fastapi,flask,nestjs,nodejs,express&perline=7" />
+  <img src="https://skillicons.dev/icons?i=cpp,go,solidity,python,java,js,ts,html,css,react,nextjs,angular,redux,fastapi,flask,nestjs,nodejs,express&perline=8" />
 </p>
 
 **Databases & Storage**  
@@ -83,8 +83,8 @@
 </p>
 
 **Cloud & DevOps**  
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,vercel,netlify,render,docker,githubactions,git,postman,figma,canva&perline=7" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,terraform,githubactions,jenkins,gitlab,helm,prometheus,grafana,postman,playwright,vercel,netlify,render,git,github&perline=8" />
 </p>
 
 **Supportive Tech** 
@@ -98,21 +98,24 @@
 
 ## 🎮✨ GitHub Stats & Activity
 
-<div align="center">
-
-<a href="https://git.io/streak-stats">
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=techySPHINX&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-</a>
-
-<a href="https://github.com/techySPHINX">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=techySPHINX&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-</a>
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=techySPHINX&theme=tokyo-night" alt="Contribution Graph"/>
-</a>
-
+<div style="display: flex; width: 100%; gap: 10px;">
+  <div style="flex: 1;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=techySphinx&rank_icon=percentile&bg_color=0000&text_color=aaa&title_color=70a5fd&icon_color=70a5fd&show_icons=true&border_color=0d1117&border_radius=20" 
+      alt="GitHub Stats" 
+      style="width: 45%; height: auto; display: block;"
+    >
+    <img 
+      src="https://streak-stats.demolab.com/?user=techySphinx&theme=tokyonight&hide_border=true&border_radius=0&background=FFFFFF00&hide_longest_streak=true" 
+      alt="GitHub Streak" 
+      style="width: 45%; height: auto; display: block;"
+    >
+  </div>
 </div>
+
+<h2 align="center"><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=techySphinx&theme=radical&hide_border=true">
+</h2>
 
 ---
 
@@ -136,3 +139,5 @@
   ✨ If you found something interesting, don't forget to leave a ⭐ on my repos!  
   <br>💬 Always open to conversations, ideas & collabs!
 </div>
+
+<img width=100% title="" alt=""  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
