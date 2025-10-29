@@ -19,10 +19,12 @@
 🎓 CS Undergrad • 🧠 Lifelong Learner • 💡 Tech Community Builder  
 💻 Backend Dev | ☁️ Cloud Native | 🔧 DevOps | 🐍 Pythonista | ⚛️ React Enthusiast
 
-- 👨‍💻 Proficient in **Node.js, NestJS, Express.js, FastAPI, Flask**
-- ☁️ Cloud lover exploring **AWS | Docker | Kubernetes | CI/CD**
-- 🧪 Built microservices, automation scripts, and scalable APIs
-- 🧠 Competitive Programming in **C++**, brushing up **Data Structures**
+- 🌐 Full Stack Expertise: Proficient in both frontend and backend development, ensuring a cohesive development process.
+- 💻 Modern Tech Stack: Adept in leveraging cutting-edge technologies like TypeScript, Next.js, and AWS services for high-performance and scalable solutions.
+- 🛠️ DevOps Savvy: Skilled in employing Docker and Kubernetes for efficient containerization and orchestration.
+- 📊 Database Proficiency: Comfortable working with PostgreSQL, Prisma, MongoDB and mongoose for data management.
+- 🤝 Open Source Enthusiast: Contributing to open-source projects.
+- 🏆 Hackathon Hero: Acing hackathons and constantly expanding my skillset.
 - 👨‍🏫 Mentoring juniors, writing on Medium & contributing to FOSS
 - 📫 **Reach me at:** `jaganhotta357@outlook.com`
 - 🪐 Fun Fact: There are as many people on 🌍 as stars you can see in the 🌌!
@@ -65,6 +67,7 @@
 - 👨‍💻 Interned at **ConvertAPI**, **LectureNotes**, **Zinfytech**
 - 🤝 Member of **Google Developer Group Cloud Bhubaneswar**
 - 🚀 Selected for KPI Fellowship Program 2025
+- 🏆 Finalist at Buildfest 2025
 
 ---
 
@@ -136,6 +139,8 @@
 ---
 
 <div align="center">
+  💡 Crafting seamless user experiences and robust backend systems is not just a job for me; it's a driving force. I'm fueled by the challenge of transforming ideas into dynamic, cutting-edge web applications that make a mark in the digital realm.
+  <br>
   ✨ If you found something interesting, don't forget to leave a ⭐ on my repos!  
   <br>💬 Always open to conversations, ideas & collabs!
 </div>
