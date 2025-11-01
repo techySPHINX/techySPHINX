@@ -35,7 +35,7 @@
 
 | 🔰 Role | 🏢 Company | 🛠️ Stack & Contribution |
 |--------|-----------|--------------------------|
-| 🟢 **Contributor**| HCW-HOME (May 2025 – Present) | NestJS, WebRTC, Mediasoup, Prisma, WebSockets, Kubernetes
+| 🟢 **Contributor**| HCW-HOME (June 2025 – October 2025) | NestJS, WebRTC, Mediasoup, Prisma, WebSockets, Kubernetes
 | 🟡 **Cloud Lead** | E-Labs (Jan 2025 – Present) | Git, CI/CD, Infra as Code, Dashboards |
 | 🟣 **SDE** | ConvertAPI | FastAPI, TDD, Microservices |
 | 🟢 **DevOps Intern** | LectureNotes | Docker, AWS, Jenkins |
