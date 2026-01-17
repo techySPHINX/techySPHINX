@@ -16,31 +16,54 @@
 
 ## 🚀 About Me
 
-🎓 CS Undergrad • 🧠 Lifelong Learner • 💡 Tech Community Builder  
-💻 Backend Dev | ☁️ Cloud Native | 🔧 DevOps | 🐍 Pythonista | ⚛️ React Enthusiast
+🎓 CS Undergrad • 🏗️ Systems Architect • ⚡ DevOps Leader • 💡 Strategic Technologist  
+💻 **Backend Systems Engineering** | ☁️ **Cloud-Native Architecture** | 🔧 **DevOps Automation** | 🚀 **Distributed Systems**
 
-- 🌐 Full Stack Expertise: Proficient in both frontend and backend development, ensuring a cohesive development process.
-- 💻 Modern Tech Stack: Adept in leveraging cutting-edge technologies like TypeScript, Next.js, and AWS services for high-performance and scalable solutions.
-- 🛠️ DevOps Savvy: Skilled in employing Docker and Kubernetes for efficient containerization and orchestration.
-- 📊 Database Proficiency: Comfortable working with PostgreSQL, Prisma, MongoDB and mongoose for data management.
-- 🤝 Open Source Enthusiast: Contributing to open-source projects.
-- 🏆 Hackathon Hero: Acing hackathons and constantly expanding my skillset.
-- 👨‍🏫 Mentoring juniors, writing on Medium & contributing to FOSS
+### 🎯 Mission: Building Revolutionary Scalable Systems
+
+I architect **mission-critical distributed systems** that redefine reliability standards. My focus: **zero-downtime infrastructure, event-driven microservices, and production systems that handle 10,000+ TPS with mathematical correctness guarantees**.
+
+### 💡 What Drives Me
+
+**Strategic Technical Leadership** — I don't just write code; I architect systems that scale from prototype to production handling billions of operations. My approach combines **distributed systems theory, DevOps best practices, and business-first thinking** to deliver infrastructure that becomes a competitive advantage.
+
+### 🔥 Current Focus Areas
+
+- ⚡ **High-Performance Distributed Systems**: Event-driven architectures (Kafka, Redis), CQRS, state machines, circuit breakers
+- 🏗️ **Cloud-Native Infrastructure**: Kubernetes orchestration, Docker containerization, Infrastructure as Code (Terraform)
+- 🔐 **Zero-Trust Backend Engineering**: JWT/OAuth2, RBAC, distributed locking, idempotency patterns
+- 📊 **Data-Intensive Applications**: PostgreSQL optimization, TimescaleDB, PostGIS, Redis caching strategies
+- 🚀 **DevOps Excellence**: CI/CD pipelines (GitHub Actions, Jenkins), monitoring (Prometheus/Grafana), automated deployments
+- 🧠 **AI-Powered Systems**: GenAI/LLM integration, LangChain, RAG architectures, intelligent automation
+
+### 🌟 Building Production Systems That Matter
+
+🔹 **[AegisPay](https://github.com/techySPHINX/aegispay)** — Enterprise payment orchestration platform processing **10,000+ TPS** with **zero duplicate charges** using distributed locking, event sourcing, and intelligent gateway routing  
+🔹 **Odisha Coastal Police Maritime Platform** — Government-grade real-time surveillance system handling **50,000+ GPS updates/sec** with Kafka, TimescaleDB, and Kubernetes—safeguarding **10,000+ fishermen**  
+🔹 **[Nexus](https://github.com/techySPHINX/Nexus)** — Student networking platform with WebSocket-based messaging, JWT authentication, and PostgreSQL/Prisma backend architecture
+
+### 🎖️ Philosophy
+
+> **"Revolutionary systems emerge from strategic architecture decisions that enable fearless scaling. My goal: build infrastructure where 99.99% uptime isn't aspirational—it's foundational."**
+
+- 👨‍🏫 **Mentoring** the next generation of backend engineers & DevOps practitioners
+- 📝 **Writing** about distributed systems, scalability patterns, and production war stories
+- 🤝 **Contributing** to open-source infrastructure projects that power critical systems
 - 📫 **Reach me at:** `jaganhotta357@outlook.com`
-- 🪐 Fun Fact: There are as many people on 🌍 as stars you can see in the 🌌!
+- 🪐 **Fun Fact:** The internet processes more data in 1 second than all books written in human history combined! 🚀
 
 ---
 
 ## 🏆 Experience Highlights
 
-| 🔰 Role | 🏢 Company | 🛠️ Stack & Contribution |
-|--------|-----------|--------------------------|
-| 🟢 **Contributor**| HCW-HOME (June 2025 – October 2025) | NestJS, WebRTC, Mediasoup, Prisma, WebSockets, Kubernetes
-| 🟡 **Cloud Lead** | E-Labs (Jan 2025 – Present) | Git, CI/CD, Infra as Code, Dashboards |
-| 🟣 **SDE** | ConvertAPI | FastAPI, TDD, Microservices |
-| 🟢 **DevOps Intern** | LectureNotes | Docker, AWS, Jenkins |
-| 🔴 **Backend Dev** | Zinfytech | API Backends, Workflow Optimization |
-| 🟠 **Apprentice** | Quant Finance Cohort'24 | Stats, Python, Analytics |
+| 🔰 Role              | 🏢 Company                          | 🛠️ Stack & Contribution                                   |
+| -------------------- | ----------------------------------- | --------------------------------------------------------- |
+| 🟢 **Contributor**   | HCW-HOME (June 2025 – October 2025) | NestJS, WebRTC, Mediasoup, Prisma, WebSockets, Kubernetes |
+| 🟡 **Cloud Lead**    | E-Labs (Jan 2025 – Present)         | Git, CI/CD, Infra as Code, Dashboards                     |
+| 🟣 **SDE**           | ConvertAPI                          | FastAPI, TDD, Microservices                               |
+| 🟢 **DevOps Intern** | LectureNotes                        | Docker, AWS, Jenkins                                      |
+| 🔴 **Backend Dev**   | Zinfytech                           | API Backends, Workflow Optimization                       |
+| 🟠 **Apprentice**    | Quant Finance Cohort'24             | Stats, Python, Analytics                                  |
 
 ---
 
@@ -75,22 +98,26 @@
 
 <div align="center">
 
-**Languages & Frameworks**  
+**Languages & Frameworks**
+
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,go,solidity,python,java,js,ts,html,css,react,nextjs,angular,redux,fastapi,flask,nestjs,nodejs,express&perline=8" />
 </p>
 
-**Databases & Storage**  
+**Databases & Storage**
+
 <p>
   <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,supabase,prisma&perline=5" />
 </p>
 
-**Cloud & DevOps**  
+**Cloud & DevOps**
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,terraform,githubactions,jenkins,gitlab,helm,prometheus,grafana,postman,playwright,vercel,netlify,render,git,github&perline=8" />
 </p>
 
-**Supportive Tech** 
+**Supportive Tech**
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postman,prometheus,canva,figma&perline=4" />
 </p>
@@ -133,8 +160,6 @@
 [![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/jk_shimon5657)
 
 </div>
-
-
 
 ---
 
