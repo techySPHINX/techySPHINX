@@ -133,7 +133,7 @@ Recurring theme across client engagements: organizations have data but lack the 
 ## Tech Stack
 
 **Languages**
-`C++ · Go · Python · TypeScript · JavaScript · Java · Solidity · SQL`
+`C++ · Go · Python · TypeScript · JavaScript · SQL`
 
 **Backend & APIs**
 `NestJS · FastAPI · Express · Node.js · Flask · gRPC`
