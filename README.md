@@ -42,7 +42,7 @@ I've delivered across **government maritime surveillance, backend platform engin
 | Role | Organization | Period | Focus |
 |------|-------------|--------|-------|
 | 🔵 **Data Engineering Intern** | Deloitte | Current | Data pipelines, ETL/ELT orchestration, cloud data warehousing, business metrics infrastructure |
-| | 🟢 **Freelance Backend & Data Engineer** | Odisha Coastal Police (Maritime Platform) | Ongoing | Go/Python backend services, Kubernetes deployments, real-time GPS telemetry, Kafka, TimescaleDB, PostGIS, observability |
+| 🟢 **Freelance Backend & Data Engineer** | Odisha Coastal Police (Maritime Platform) | Ongoing | Go/Python backend services, Kubernetes deployments, real-time GPS telemetry, Kafka, TimescaleDB, PostGIS, observability |
 | 🟣 **Software Engineer** | ConvertAPI | Past | Go backend engineering, API design, TDD, microservices architecture, reliability-focused service development ||
 | 🟢 **Contributor** | HCW-HOME | Jun 2025 – Oct 2025 | NestJS, WebRTC, Mediasoup, Prisma, WebSockets, Kubernetes |
 | 🟡 **Cloud Lead** | E-Labs | Jan 2025 – Present | Git workflows, CI/CD, Infrastructure as Code, monitoring dashboards |
