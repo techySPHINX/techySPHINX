@@ -4,7 +4,7 @@
 
 <h1 align="center">🙏 नमः विद्या! 👋</h1>
 
-<h3 align="center">Backend Systems Engineer · Data Infrastructure Architect · DevOps Practitioner · Open Source Contributor</h3>
+<h3 align="center">Backend Systems Engineer · Data Infrastructure Architect · DevOps/Kubernetes Practitioner · Open Source Contributor</h3>
 
 <p align="center">
   <a href="#-about-me"><img src="PNG/About.png" width="100"/></a>
@@ -16,19 +16,22 @@
 
 ## About Me
 
-I'm a **Computer Science undergraduate** who builds systems at the intersection of **backend engineering, data infrastructure, and AI**. My work lives in the space where raw data transforms into business intelligence — and where distributed systems must remain correct under pressure.
+I'm a **Computer Science undergraduate and backend systems engineer** working across **Go, Python, Kubernetes, data infrastructure, and AI-assisted cloud-native systems**. My work sits at the intersection of production backend engineering, distributed data pipelines, and infrastructure automation — where systems must be observable, secure, scalable, and correct under real operational pressure.
 
-My obsession is **data flow**: how information moves, transforms, gets validated, aggregated, and ultimately surfaces as actionable business metrics. Whether it's a real-time GPS telemetry pipeline processing 50,000 events per second, an enterprise payment ledger with zero-tolerance for duplicate charges, or a deep learning inference service with sub-100ms latency — I architect these systems with a single standard: **production-grade correctness, always**.
+My core focus is **backend architecture and data flow**: how information moves through APIs, queues, databases, event streams, validation layers, and dashboards. I have worked on Go-based backend services, Kubernetes-backed deployments, real-time telemetry systems, payment-style correctness flows, and AI/LLM integration layers where structured output, safety, and testing matter as much as feature delivery.
 
-I've delivered across **government maritime surveillance, fintech payment orchestration, AI-powered automation, and data engineering consulting**. I've handled multiple client engagements as a freelancer, navigating ambiguous requirements, tight SLAs, and stakeholder communication alongside the engineering itself.
+I've delivered across **government maritime surveillance, backend platform engineering, fintech-style orchestration, AI-powered automation, and data engineering consulting**. Across these projects, I’ve handled not only implementation but also architecture discussions, infrastructure choices, production constraints, stakeholder communication, and test-driven delivery.
 
 **What genuinely excites me:**
 - The elegance of a perfectly modeled data pipeline
 - Business metrics that are *trusted* because the data infrastructure beneath them is bulletproof
 - Neural network architectures applied to real operational problems
 - Systems that are still running flawlessly three years after I've moved on
+- Go-based backend systems with clean interfaces, strong tests, and production-ready failure handling
+- Kubernetes-native platforms where services, observability, and deployment workflows are designed from day one
+- AI systems that treat model output as untrusted until validated through schemas, contracts, and 
 
-> *"The goal is not just working software — it's infrastructure that becomes an organizational asset, where data integrity is non-negotiable and scale is an afterthought."*
+> *"The goal is not just working software — it is backend and infrastructure that teams can trust, operate, extend, and reason about even under scale, failure, and ambiguity."*
 
 📫 `jaganhotta357@outlook.com`
 
@@ -39,10 +42,10 @@ I've delivered across **government maritime surveillance, fintech payment orches
 | Role | Organization | Period | Focus |
 |------|-------------|--------|-------|
 | 🔵 **Data Engineering Intern** | Deloitte | Current | Data pipelines, ETL/ELT orchestration, cloud data warehousing, business metrics infrastructure |
-| 🟢 **Freelance Backend & Data Engineer** | Odisha Coastal Police (Maritime Platform) | Ongoing | Government-grade real-time surveillance — 50,000+ GPS updates/sec, Kafka, TimescaleDB, Kubernetes, PostGIS |
+| | 🟢 **Freelance Backend & Data Engineer** | Odisha Coastal Police (Maritime Platform) | Ongoing | Go/Python backend services, Kubernetes deployments, real-time GPS telemetry, Kafka, TimescaleDB, PostGIS, observability |
+| 🟣 **Software Engineer** | ConvertAPI | Past | Go backend engineering, API design, TDD, microservices architecture, reliability-focused service development ||
 | 🟢 **Contributor** | HCW-HOME | Jun 2025 – Oct 2025 | NestJS, WebRTC, Mediasoup, Prisma, WebSockets, Kubernetes |
 | 🟡 **Cloud Lead** | E-Labs | Jan 2025 – Present | Git workflows, CI/CD, Infrastructure as Code, monitoring dashboards |
-| 🟣 **Software Engineer** | ConvertAPI | Past | FastAPI, TDD, microservices architecture |
 | 🟢 **DevOps Intern** | LectureNotes | Past | Docker, AWS, Jenkins, automated deployments |
 | 🔴 **Backend Developer** | Zinfytech | Past | API backends, workflow optimization |
 | 🟠 **Apprentice** | Quant Finance Cohort 2024 | 2024 | Statistical modeling, Python, financial analytics |
@@ -63,13 +66,22 @@ An event-sourced, distributed payment processing system engineered for **10,000+
 ---
 
 ### 🚢 Odisha Coastal Police Maritime Surveillance Platform *(Freelance)*
-A government-grade, real-time maritime situational awareness system protecting **10,000+ active fishermen** along the Odisha coastline.
+A government-grade, real-time maritime situational awareness system designed for coastal monitoring and operational decision-making across Odisha’s fishing and marine zones.
 
-**Architecture highlights:** Kafka-based ingestion layer handling **50,000+ GPS telemetry events/second**, TimescaleDB for time-series storage and compression, PostGIS for geospatial analytics and zone-breach detection, Kubernetes for zero-downtime deployments, Prometheus/Grafana observability stack with custom operational dashboards.
+**Architecture highlights:** Go/Python backend services for ingestion and operational APIs, Kafka-based telemetry pipeline, TimescaleDB for time-series storage and compression, PostGIS for geospatial analytics and zone-breach detection, Kubernetes for service deployment and scaling, and Prometheus/Grafana dashboards for operational visibility.
 
-**Data pipeline design:** Raw GPS → Kafka partitioned by vessel ID → stream processing for anomaly detection → TimescaleDB with hypertable partitioning → real-time WebSocket push to operator dashboards. Every layer optimized for throughput with sub-second end-to-end latency.
+**Data pipeline design:** Raw GPS telemetry → backend ingestion services → Kafka partitioned by vessel/device identity → stream processing for anomaly and zone detection → TimescaleDB/PostGIS persistence → WebSocket/API delivery to operator dashboards. The architecture focuses on low-latency tracking, geospatial correctness, and resilient field operations.
 
-`Python · Kafka · TimescaleDB · PostGIS · Kubernetes · WebSockets · Grafana`
+`Go · Kafka · TimescaleDB · PostGIS · Kubernetes · WebSockets · Prometheus · Grafana`
+
+---
+
+### ⚙️ ConvertAPI Backend Systems *(Professional Work)*
+Backend engineering work focused on API reliability, service boundaries, and test-driven delivery for conversion-oriented workflows.
+
+**Engineering focus:** Go-based backend services, API contract design, request validation, modular service structure, error handling, and test coverage. The work strengthened my practical understanding of production backend engineering: keeping interfaces clean, failures explicit, and services maintainable under real usage.
+
+`Go · APIs · TDD · Microservices · Backend Architecture · Reliability Engineering`
 
 ---
 
@@ -108,12 +120,20 @@ Recurring theme across client engagements: organizations have data but lack the 
 
 ## Current Focus
 
-- ☁️ **Advanced Data Engineering at Deloitte** — cloud-scale ETL, data warehousing patterns, business metric instrumentation
-- 🧠 **Deep Learning Applications** — applied neural networks for time-series forecasting and anomaly detection in operational data
-- 🤖 **AI Agents & MCP** — building autonomous agents with structured memory, tool use, and semantic reasoning capabilities
-- 🕸️ **Web3 Infrastructure** — full-stack dApp development with Next.js + StarkNet, exploring on-chain data pipelines
-- 📐 **Systems Design** — daily study of distributed systems papers, database internals, and consensus algorithms
-- 🧩 **Competitive Programming** — C++ STL, template meta-programming, algorithmic problem solving
+- 🧩 **Go Backend Engineering** — clean interfaces, service boundaries, concurrency patterns, API design, and test-driven backend development
+- ☸️ **Kubernetes & Cloud-Native Systems** — deployments, service reliability, observability, containerized workflows, and platform engineering fundamentals
+- ☁️ **Advanced Data Engineering at Deloitte** — cloud-scale ETL, warehousing patterns, business metric instrumentation, and production data pipelines
+- 🤖 **AI/LLM Infrastructure** — provider abstraction, structured output validation, BYOM patterns, local/private inference, and schema-safe AI workflows
+- 🕸️ **Open Source Contribution** — currently studying Meshery adapter architecture, meshkit, meshery-adapter-library, protobuf boundaries, Connections/Credentials, and test-first contribution paths
+- 📐 **Systems Design** — distributed systems, database internals, event-driven architecture, observability, and reliability engineering
+
+---
+
+## Open Source Focus
+
+I am currently focusing on **cloud-native open-source systems**, especially projects where architecture, interfaces, testing, and extensibility matter. My current contribution direction is around Meshery’s AI Adapter / AI Connections work, where I am studying adapter boundaries, BYOM provider design, Connections/Credentials, schema-validated design generation, and test-driven implementation before touching major feature code.
+
+My approach to open source is design-first: understand the existing architecture, identify the safest integration boundary, contribute small preparatory improvements, and then move toward implementation with tests and maintainability in mind.
 
 ---
 
@@ -132,23 +152,25 @@ Recurring theme across client engagements: organizations have data but lack the 
 
 ## Tech Stack
 
-**Languages**
-`C++ · Go · Python · TypeScript · JavaScript · SQL`
+**Languages**  
+`Go · Python · TypeScript · JavaScript · C++ · SQL`
 
-**Backend & APIs**
-`NestJS · FastAPI · Express · Node.js · Flask · gRPC`
+**Backend & APIs**  
+`Go backend services · FastAPI · NestJS · Express · Node.js · REST APIs · gRPC · WebSockets · Microservices`
 
-**Data & AI**
-`Apache Kafka · Apache Flink · Apache Airflow · dbt · TimescaleDB · PostgreSQL · Redis · MongoDB · Supabase`
-`PyTorch · TensorFlow · LangChain · Hugging Face · MLflow · DVC · pgvector · Apache Arrow`
+**Cloud-Native & DevOps**  
+`Kubernetes · Docker · Terraform · Helm · AWS · Azure · GitHub Actions · Jenkins · GitLab CI · Linux`
 
-**Cloud & DevOps**
-`AWS · GCP · Azure · Kubernetes · Docker · Terraform · Helm · GitHub Actions · Jenkins · GitLab CI`
+**Data Infrastructure**  
+`Apache Kafka · Apache Flink · Apache Airflow · dbt · TimescaleDB · PostgreSQL · PostGIS · Redis · MongoDB · Supabase · Parquet`
 
-**Observability**
-`Prometheus · Grafana · OpenTelemetry · Jaeger`
+**AI & ML Systems**  
+`PyTorch · TensorFlow · LangChain · Hugging Face · MLflow · DVC · pgvector · Apache Arrow · LLM Integration · RAG`
 
-**Frontend**
+**Observability**  
+`Prometheus · Grafana · OpenTelemetry · Jaeger · Structured Logging`
+
+**Frontend**  
 `React · Next.js · Angular · Redux`
 
 ---
